@@ -1,1 +1,1 @@
-Hidden files
+About Bash
